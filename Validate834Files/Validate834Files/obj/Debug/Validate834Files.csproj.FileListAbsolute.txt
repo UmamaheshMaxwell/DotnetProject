@@ -1,0 +1,7 @@
+c:\users\umeka\documents\visual studio 2013\Projects\Validate834Files\Validate834Files\bin\Debug\Validate834Files.exe.config
+c:\users\umeka\documents\visual studio 2013\Projects\Validate834Files\Validate834Files\bin\Debug\Validate834Files.exe
+c:\users\umeka\documents\visual studio 2013\Projects\Validate834Files\Validate834Files\bin\Debug\Validate834Files.pdb
+c:\users\umeka\documents\visual studio 2013\Projects\Validate834Files\Validate834Files\bin\Debug\EDIdEv.FrameworkEDI.NET4.x64.dll
+c:\users\umeka\documents\visual studio 2013\Projects\Validate834Files\Validate834Files\obj\Debug\Validate834Files.csprojResolveAssemblyReference.cache
+c:\users\umeka\documents\visual studio 2013\Projects\Validate834Files\Validate834Files\obj\Debug\Validate834Files.exe
+c:\users\umeka\documents\visual studio 2013\Projects\Validate834Files\Validate834Files\obj\Debug\Validate834Files.pdb

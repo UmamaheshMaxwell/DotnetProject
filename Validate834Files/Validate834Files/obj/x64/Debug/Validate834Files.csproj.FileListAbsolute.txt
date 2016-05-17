@@ -1,0 +1,10 @@
+c:\users\umeka\documents\visual studio 2013\Projects\Validate834Files\Validate834Files\bin\x64\Debug\Validate834Files.exe.config
+c:\users\umeka\documents\visual studio 2013\Projects\Validate834Files\Validate834Files\bin\x64\Debug\Validate834Files.exe
+c:\users\umeka\documents\visual studio 2013\Projects\Validate834Files\Validate834Files\bin\x64\Debug\Validate834Files.pdb
+c:\users\umeka\documents\visual studio 2013\Projects\Validate834Files\Validate834Files\obj\x64\Debug\Validate834Files.exe
+c:\users\umeka\documents\visual studio 2013\Projects\Validate834Files\Validate834Files\obj\x64\Debug\Validate834Files.pdb
+c:\users\umeka\documents\visual studio 2013\Projects\Validate834Files\Validate834Files\obj\x64\Debug\Validate834Files.csprojResolveAssemblyReference.cache
+c:\users\umeka\documents\visual studio 2013\Projects\Validate834Files\Validate834Files\bin\x64\Debug\Validate834Files.exe.manifest
+c:\users\umeka\documents\visual studio 2013\Projects\Validate834Files\Validate834Files\bin\x64\Debug\Validate834Files.application
+c:\users\umeka\documents\visual studio 2013\Projects\Validate834Files\Validate834Files\obj\x64\Debug\Validate834Files.exe.manifest
+c:\users\umeka\documents\visual studio 2013\Projects\Validate834Files\Validate834Files\obj\x64\Debug\Validate834Files.application
